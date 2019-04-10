@@ -142,7 +142,7 @@
       {
         "address": "01234",
         "pub_key": { "type": "tendermint/PubKeyEd25519", "value": "testing2" },
-        "voting_power": "1",
+        "voting_power": "5",
         "proposer_priority": "0"
       }
     ]
