@@ -129,6 +129,21 @@
         },
         "voting_power": "20093353140000000",
         "proposer_priority": "-84641969415727852"
+      },
+      {
+        "address": "012345678",
+        "pub_key": {
+          "type": "tendermint/PubKeyEd25519",
+          "value": "R/SADSA2asd"
+        },
+        "voting_power": "10",
+        "proposer_priority": "222"
+      },
+      {
+        "address": "01234",
+        "pub_key": { "type": "tendermint/PubKeyEd25519", "value": "testing2" },
+        "voting_power": "1",
+        "proposer_priority": "0"
       }
     ]
   }
